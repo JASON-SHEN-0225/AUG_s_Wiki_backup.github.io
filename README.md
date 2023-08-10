@@ -1,2 +1,2 @@
-# AUG_s_Wiki_backup.github.io
-only backup
+link:![](AUG_s_Wiki_backup.github.io)
+# backup
